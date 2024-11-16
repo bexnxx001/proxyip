@@ -1,5 +1,5 @@
+103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
-103.133.223.50,2096,ID,Cloud Teknologi Nusantara
-43.133.145.156,53136,ID,Tencent cloud computing
 172.232.239.151,587,ID,Akamai Connected Cloud
+43.133.145.156,53136,ID,Tencent cloud computing
